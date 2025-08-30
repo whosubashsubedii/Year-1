@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment1.params=accountNumber\ balance\ overdraftLimit
+comment1.target=CheckingAccount(java.lang.String,\ double,\ double)
+comment2.params=amount
+comment2.target=void\ deposit(double)
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment4.params=
+comment4.target=double\ checkBalance()
+numComments=5

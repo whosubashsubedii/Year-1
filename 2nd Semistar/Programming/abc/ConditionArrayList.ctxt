@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ConditionArrayList
+comment1.params=condition
+comment1.target=ConditionArrayList(java.util.function.Predicate)
+comment2.params=item
+comment2.target=boolean\ isEligible(java.lang.Object)
+comment3.params=item
+comment3.target=boolean\ add(java.lang.Object)
+numComments=4
