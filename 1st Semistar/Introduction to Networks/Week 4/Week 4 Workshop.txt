@@ -1,0 +1,48 @@
+
+1. Find the following of the network 192.168.1.0/28.
+	a. Network Address
+	b. B roadcast Address
+	c. Fist Usable IP
+	d. Last Usable IP
+	e. Subnet Mask
+
+2. Find the following of the network 92.18.100.0/24.
+	a. Network Address
+	b. Broadcast Address
+	c. Fist Usable IP
+	d. Last Usable IP
+	e. Subnet Mask
+    
+3. Find the following of the network 10.68.0.0/19.
+	a. Network Address
+	b. Broadcast Address
+	c. Fist Usable IP
+	d. Last Usable IP
+	e. Subnet Mask
+
+4. What is the subnet mask of the network 192.168.1.0/24?
+
+5. What is the subnet mask of the network 172.16.1.0/17?
+
+6. What is the subnet mask of the network 12.10.100.0/14?
+
+7. What is the subnet mask of the network having  CIDR notation 30?
+Subnet Mask: 255.255.255.252
+Usable Hosts: 2
+
+
+8. What is the subnet mask of the network having CIDR notation 20?
+Subnet Mask: 255.255.240.0
+Usable Hosts: 4094
+
+
+9. What is the subnet mask of the network having CIDR notation 10?
+Subnet Mask: 255.192.0.0
+Usable Hosts: 4,194,302
+
+
+10. What is the CIDR notation of the subnet mask 255.255.224.0?
+
+11. What is the CIDR notation of the subnet mask 255.255.255.252?
+
+12. What is the CIDR notation of the subnet mask 255.224.0.0?

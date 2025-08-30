@@ -1,0 +1,86 @@
+Required Pages:
+	Home (Should consists of brief sections about other web pages)
+	Product (e-commerce webpage for a store that sells various footwears)
+	Blog
+	- About Technology
+	- Positive Impact
+	- Negative Impact
+	- How Technology can be useful to boost related to selling footwears
+	- Overall Conclusion
+	Research
+	- Compare your design with other website design
+	About Us
+	- Feedback form
+	- Portfolio of every team members
+
+Tips:
+	Comments are mandatory
+	HTML tags:
+		- table 
+		- div
+		- meta
+		- image 
+		- form
+
+	CSS:
+		- Inline
+		- Internal
+		- External
+
+	JS:
+		- Internal
+		- External 
+	
+Documentation
+Introduction
+	- Introduction to your project
+	- Goals and objectives
+	- How HTML, CSS and JS was used while developing website
+	- Verdict
+
+Discussion and Analysis
+
+	Selected Text Editor
+		- Use of text editor
+
+	Tool used while developing wireframe
+		- Short explanation about tool used for developing wireframe
+
+	Name of page
+		- Explanation of contents present in the page
+		- Screenshot of Wireframe
+		- Screenshot of Page
+
+Testing (Minimum 5 test cases)
+	- 3 JS testing (Mandatory)
+	- 1 (Nav Hover effect)
+	- 1 (Internal + External Link)
+
+Test 1
+	------------------------------
+	| Objective       |          |
+	-----------------------------|
+	| Action          |          |
+	-----------------------------|
+	| Expected Result |          |
+	-----------------------------|
+	| Actual Result   |          |
+	-----------------------------|
+	| Test            |          |
+	------------------------------
+	Screenshots.
+
+Conclusion
+	- Task that had been carried out in coursework
+	- Research and finding
+
+Appendix
+	- Code of all pages
+	- In text
+
+For submission:
+1. Zip the project folder. 
+2. Make sure both files have Team Leader's Name and Team Leader's ID as filename
+3. Make sure all the team members name and id are included in the cover page.
+4. Make sure that only the team leader submits the group coursework.
+5. Submit zip file and the pdf(report/document) file together.

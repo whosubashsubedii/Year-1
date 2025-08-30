@@ -1,0 +1,32 @@
+1. Subnet the given address with the following host requirements.
+
+a. 192.168.1.0/25
+	LAN A - 20 hosts
+	LAN B - 39 hosts
+
+
+
+
+
+b. 172.16.0.0/16
+	LAN A - 3000 hosts
+	LAN B - 30 hosts
+
+
+
+
+c. 10.10.10.0/8
+	LAN A - 1000 hosts
+	LAN B - 2000 hosts
+	LAN C - 450 hosts
+	
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+chapter 2 5 9
+
+subnet mask
+
+dhcp 
+dns
+
+
+line console
+
+line vty 
+
+telnet ssh 
+
+basic configuration 
