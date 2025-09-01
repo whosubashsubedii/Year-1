@@ -7,3 +7,6 @@
 [submodule "2nd Semistar/Programming/Programming  CourseWork/Java-Programming-Coursework"]
 	path = 2nd Semistar/Programming/Programming  CourseWork/Java-Programming-Coursework
 	url = git@github.com:whosubashsubedii/Java-Programming-Coursework.git
+[submodule "2nd Semistar/Programming/Programming  CourseWork/10-Independent-Java-Learning-Coursework"]
+	path = 2nd Semistar/Programming/Programming  CourseWork/10-Independent-Java-Learning-Coursework
+	url = git@github.com:whosubashsubedii/10-Independent-Java-Learning-Coursework.git
